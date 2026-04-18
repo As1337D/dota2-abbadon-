@@ -1,0 +1,36 @@
+.greet{
+    background: url(../img/6826c4f86ec5dc4fb4425222b33cee99.jpg) no-repeat center/cover ;
+    padding: 30px 0 148px 0;
+}
+
+.conteiner {}
+
+.greet__content {}
+
+.header {
+        display: flex;
+            align-items: center;
+            justify-content: space-between;
+}
+
+.logo {}
+
+.nav {}
+
+.nav__list {
+    display: flex;
+        column-gap: 35px;
+        align-items: center;
+}
+
+.nav__item {}
+
+.greet__desc {}
+
+.greet__tittle {}
+
+.greet__text {}
+
+.btn {}
+
+.greet__btn {}
